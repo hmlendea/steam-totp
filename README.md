@@ -6,7 +6,7 @@ A lightweight .NET console utility to generate [Steam Guard Mobile Authenticator
 
 ## 🔧 Build
 
-Requires .NET SDK 9.0 or newer.
+Requires .NET SDK 10.0 or newer.
 
 ```bash
 dotnet build -c Release
@@ -21,7 +21,7 @@ dotnet run <TOTP_Key>
 Or after building:
 
 ```bash
-./bin/Release/net9.0/steam-totp <TOTP_Key>
+./bin/Release/net10.0/steam-totp <TOTP_Key>
 ```
 
 It will output your current TOTP code for use with Steam Guard.
