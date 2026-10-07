@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution Sdk="Microsoft.NET.Sdk">
+  <Project Path="SteamTOTP/SteamTOTP.csproj" />
+</Solution>
